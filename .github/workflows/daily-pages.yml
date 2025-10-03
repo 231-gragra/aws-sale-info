@@ -16,13 +16,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate index.md (JST)
-        shell: bash
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate docs via output.py
         run: |
-          set -euo pipefail
-          mkdir -p docs
-          NOW=$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S %Z')
-          printf '# 現在時刻（JST）\n**%s**\n\nこのページは GitHub Actions により自動生成・更新されています。\n- 更新タイミング: 毎日 09:00（JST）\n- 生成元: `.github/workflows/daily-pages.yml`\n' "$NOW" > docs/index.md
+          python output.py
 
       - name: Commit & Push
         shell: bash
