@@ -2,7 +2,7 @@ name: daily-pages
 
 on:
   schedule:
-    # JST 09:00（= UTC 00:00）
+    # JST 09:00（UTC 00:00）
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -16,21 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Markdown (JST)
+      - name: Generate index.md (JST)
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p docs
           NOW=$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S %Z')
-          cat > docs/index.md << 'EOF'
-# 現在時刻（JST）
-**REPLACE_ME**
-
-このページは GitHub Actions により自動生成・更新されています。
-- 更新タイミング: 毎日 09:00（JST）
-EOF
-          # 置換で現在時刻をはめ込む（YAMLパースと衝突しない安全策）
-          sed -i "s/REPLACE_ME/${NOW//\//\\/}/" docs/index.md
+          printf '# 現在時刻（JST）\n**%s**\n\nこのページは GitHub Actions により自動生成・更新されています。\n- 更新タイミング: 毎日 09:00（JST）\n- 生成元: `.github/workflows/daily-pages.yml`\n' "$NOW" > docs/index.md
 
       - name: Commit & Push
         shell: bash
