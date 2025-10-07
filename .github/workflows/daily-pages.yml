@@ -28,6 +28,7 @@ jobs:
         env:
           MY_SECRET_KEY: ${{ secrets.MY_SECRET_KEY }}
         run: |
+          echo secrets.MY_SECRET_KEY is $MY_SECRET_KEY
           python output.py
 
       - name: Commit & Push
