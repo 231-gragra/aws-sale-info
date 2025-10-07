@@ -32,7 +32,9 @@ jobs:
 
       - name: Generate docs via output.py
         env:
-          MY_SECRET_KEY: ${{ secrets.MY_SECRET_KEY }}
+          PAAPI_ACCESS_KEY: ${{ secrets.PAAPI_ACCESS_KEY }}
+          PAAPI_SECRET_KEY: ${{ secrets.PAAPI_SECRET_KEY }}
+          PAAPI_ASSOCIATE_TAG: ${{ secrets.PAAPI_ASSOCIATE_TAG }}
         run: |
           python modules/output_api_search_keyword.py
           python modules/create_md_table.py
