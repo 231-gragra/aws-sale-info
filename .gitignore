@@ -1,3 +1,5 @@
 .env
 jsons
 templates/header.md
+venv
+paapi5-python-sdk-example/**/*.pyc

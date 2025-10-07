@@ -13,6 +13,15 @@ import time
 import json
 import argparse
 import os
+import sys
+
+from datetime import date, datetime
+from decimal import Decimal
+from dotenv import load_dotenv
+from pathlib import Path
+# プロジェクト直下をパスに追加
+sys.path.append(str(Path(__file__).resolve().parent.parent / "paapi5-python-sdk-example"))
+
 from paapi5_python_sdk.api.default_api import DefaultApi
 from paapi5_python_sdk.models import (
     SearchItemsRequest,
@@ -21,9 +30,6 @@ from paapi5_python_sdk.models import (
     Condition,
 )
 from paapi5_python_sdk.rest import ApiException
-from datetime import date, datetime
-from decimal import Decimal
-from dotenv import load_dotenv
 
 # .envファイルを読み込む
 load_dotenv()

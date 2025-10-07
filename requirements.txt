@@ -1,1 +1,5 @@
 python-dotenv
+Pathlib
+six
+urllib3
+certifi
