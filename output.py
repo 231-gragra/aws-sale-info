@@ -35,9 +35,4 @@ header_path = Path("templates/header.md")
 if header_path.exists():
     header_content = header_path.read_text(encoding="utf-8")
     (DOCS_DIR / "index.md").write_text(header_content + "\n\n" + content, encoding="utf-8")
-    print("Prepended templates/header.md to docs/index.md")
-
-# 環境変数から秘密鍵を取得
-MY_SECRET_KEY = os.getenv("MY_SECRET_KEY")
-# githubに登録したsecretを表示（デバッグ用）
-print(f"MY_SECRET_KEY:{MY_SECRET_KEY}")
+    print("header.mdの内容をindex.mdの最初に追加しました")
