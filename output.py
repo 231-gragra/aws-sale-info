@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
+import os
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
+from dotenv import load_dotenv
+
+# .envファイルを読み込む
+load_dotenv()
 
 # ---- JST（Asia/Tokyo）を安全に扱う：tzdataが無い環境でも動作 ----
 try:
@@ -24,3 +29,15 @@ content = f"""# 現在時刻（JST）
 
 (DOCS_DIR / "index.md").write_text(content, encoding="utf-8")
 print("Wrote docs/index.md")
+
+# templates/header.mdを読み込んでindex.mdの最初に追加
+header_path = Path("templates/header.md")
+if header_path.exists():
+    header_content = header_path.read_text(encoding="utf-8")
+    (DOCS_DIR / "index.md").write_text(header_content + "\n\n" + content, encoding="utf-8")
+    print("Prepended templates/header.md to docs/index.md")
+
+# 環境変数から秘密鍵を取得
+MY_SECRET_KEY = os.getenv("MY_SECRET_KEY")
+# githubに登録したsecretを表示（デバッグ用）
+print(f"MY_SECRET_KEY:{MY_SECRET_KEY}")
