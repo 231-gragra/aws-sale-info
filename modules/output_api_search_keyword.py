@@ -19,8 +19,8 @@ from datetime import date, datetime
 from decimal import Decimal
 from dotenv import load_dotenv
 from pathlib import Path
-# プロジェクト直下をパスに追加
-# sys.path.append(str(Path(__file__).resolve().parent.parent / "paapi5-python-sdk-example"))
+# PAAPI5 SDKをインポートできるようにパスを追加
+sys.path.append(str(Path(__file__).resolve().parent.parent / "paapi5-python-sdk-example"))
 
 from paapi5_python_sdk.api.default_api import DefaultApi
 from paapi5_python_sdk.models import (
