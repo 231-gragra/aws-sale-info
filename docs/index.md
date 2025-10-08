@@ -12,12 +12,12 @@
 | ![商品画像](https://m.media-amazon.com/images/I/515yuWDthrL._SL160_.jpg) | [魔法少女201 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0CW1KRTLH?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 還元率48% (16pt還元) |
 | ![商品画像](https://m.media-amazon.com/images/I/517v2Jrr6hL._SL160_.jpg) | [ウィッチウォッチ 23 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRVFLVW?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 還元率35% (188pt還元) |
 | ![商品画像](https://m.media-amazon.com/images/I/61CuScx9mjL._SL160_.jpg) | [銀河英雄伝説 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B01AT6UKK4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 還元率33% (11pt還元) |
-| ![商品画像](https://m.media-amazon.com/images/I/51m-Etg2VrL._SL160_.jpg) | [逃げ上手の若君 22 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBW5MPV?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 還元率35% (188pt還元) |
+| ![商品画像](https://m.media-amazon.com/images/I/61BjpavXzAL._SL160_.jpg) | [魔王様ちょっとそれとって!! 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00S63GFFM?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 還元率33% (11pt還元) |
 
 
 
 ### 最終更新時刻（JST）
-**2025-10-08 10:40:20 JST**
+**2025-10-08 10:46:42 JST**
 
 このページは自動生成・更新されています。  
 更新タイミング: 毎日 04:00（JST）  
