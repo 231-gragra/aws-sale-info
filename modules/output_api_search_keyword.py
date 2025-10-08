@@ -145,6 +145,12 @@ def main():
     try:
         items = fetch_items()
         items_dict = [to_plain(it) for it in items]
+        # jsons/item.jsonがない場合は自動で作成
+        json_file_path = Path("jsons/item.json")
+        json_file_path.parent.mkdir(parents=True, exist_ok=True)  # ディレクトリ作成
+        if not json_file_path.exists():  # ファイルが存在しない場合
+            json_file_path.write_text("[]", encoding="utf-8")  # 空のJSONファイルを作成
+
         with open("jsons/item.json","w",encoding="utf-8") as f:
             json.dump(items_dict, f, ensure_ascii=False, indent=2)
             print("item.json を更新しました。")
