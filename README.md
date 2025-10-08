@@ -1,2 +1,2 @@
-# affi-time-demo
-GitHub ActionからGitHub Pagesで公開するまでのテストを行うリポジトリ
+# comi-toku-info
+Kindleのセール情報を取得し、お得な情報を伝えるサイト
