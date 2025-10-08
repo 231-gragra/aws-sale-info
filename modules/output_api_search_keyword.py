@@ -47,7 +47,7 @@ REGION = "us-west-2"
 # 検索ワードを指定
 SEARCH_KEYWORD = "集英社"
 ITEMS_PER_PAGE = 10  # API制限により1リクエスト最大10件
-TOTAL_ITEMS = 10     # 取得したい総件数（10の倍数で）
+TOTAL_ITEMS = 50     # 取得したい総件数（10の倍数で）
 
 
 def fetch_items():
