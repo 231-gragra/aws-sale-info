@@ -25,10 +25,10 @@ jobs:
         run: pip install -r requirements.txt
       
       # PAAPIのモジュールを認識させるのに必要
-      - name: Set PYTHONPATH
-        run: |
-          export PYTHONPATH=$(pwd):$PYTHONPATH
-          echo "PYTHONPATH=$PYTHONPATH:$(pwd)" >> $GITHUB_ENV
+      # - name: Set PYTHONPATH
+      #   run: |
+      #     export PYTHONPATH=$(pwd):$PYTHONPATH
+      #     echo "PYTHONPATH=$PYTHONPATH:$(pwd)" >> $GITHUB_ENV
 
       - name: Generate docs via output.py
         env:
