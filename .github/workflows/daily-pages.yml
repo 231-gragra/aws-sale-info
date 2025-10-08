@@ -16,13 +16,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate index.md (JST)
-        shell: bash
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+        
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate docs via output.py
+        env:
+          PAAPI_ACCESS_KEY: ${{ secrets.PAAPI_ACCESS_KEY }}
+          PAAPI_SECRET_KEY: ${{ secrets.PAAPI_SECRET_KEY }}
+          PAAPI_ASSOCIATE_TAG: ${{ secrets.PAAPI_ASSOCIATE_TAG }}
         run: |
-          set -euo pipefail
-          mkdir -p docs
-          NOW=$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S %Z')
-          printf '# 現在時刻（JST）\n**%s**\n\nこのページは GitHub Actions により自動生成・更新されています。\n- 更新タイミング: 毎日 09:00（JST）\n- 生成元: `.github/workflows/daily-pages.yml`\n' "$NOW" > docs/index.md
+          python modules/output_api_search_keyword.py
+          python modules/create_md_table.py
+          python output.py
 
       - name: Commit & Push
         shell: bash

@@ -1,0 +1,6 @@
+.env
+jsons
+templates/header.md
+venv
+__pycache__/
+*.pyc
