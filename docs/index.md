@@ -27,8 +27,8 @@
 | [℃りけい。 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00AU29GM6?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
 | [ヴァルハラ・オティンティン館 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09MRZTFCP?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
 | [破壊魔定光 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07DNYBKL8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
-| [シェパードハウス・ホテル 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0BX2B1Z22?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [逢沢小春は死に急ぐ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0BNL4WZNQ?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
+| [シェパードハウス・ホテル 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0BX2B1Z22?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [アド・アストラ　―スキピオとハンニバル― 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00BCY5940?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [ベイク・ベイク・ベイク 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DJB6SQZ8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 48% (16pt) |
 | [女装男子はスカートを脱ぎたい！ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0D59QDVBR?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
@@ -68,8 +68,8 @@
 | [夜嵐にわらう 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09P3L5QD6?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [キングダム 76 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLR4V9K?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 35% (254pt) |
 | [怪獣８号 16 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRG2RL3?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 606円 | 34% (209pt) |
-| [ドッグスレッド 6 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FGBHK3S2?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 35% (254pt) |
 | [アド・アストラ　―スキピオとハンニバル― 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00BCY592C?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
+| [ドッグスレッド 6 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FGBHK3S2?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 35% (254pt) |
 | [彼方のアストラ 全巻合本版 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07L4MWMZY?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 2547円 | 35% (881pt) |
 | [NEEDLESS 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00D43LDBK?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 617円 | 35% (213pt) |
 | [タコピーの原罪 上 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09R9YL6Q8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 659円 | 35% (228pt) |
@@ -78,16 +78,16 @@
 | [ローゼンメイデン0―ゼロ― 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B01MF88349?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [岩元先輩ノ推薦 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09834RB52?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [BORUTO-ボルト-　-TWO BLUE VORTEX- 6 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBX2M8B?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
-| [チェンソーマン 21 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLPQV8F?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [いとこのお姉ちゃんに甘えちゃう？ 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRGQ88B?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
+| [チェンソーマン 21 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLPQV8F?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [DEATH NOTE短編集 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B08R6T21RF?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 564円 | 35% (195pt) |
 | [君のことが大大大大大好きな100人の彼女 23 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRDSYP9?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 773円 | 35% (267pt) |
 | [復讐を希う最強勇者は、闇の力で殲滅無双する 16 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRNMJTP?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
 | [ONE PIECE モノクロ版 112 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLR84Q1?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [幽★遊★白書 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00KCC0YKC?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 35% (160pt) |
 | [破壊魔定光 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07DNYBKL8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
-| [シェパードハウス・ホテル 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0BX2B1Z22?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [逢沢小春は死に急ぐ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0BNL4WZNQ?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
+| [シェパードハウス・ホテル 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0BX2B1Z22?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [アド・アストラ　―スキピオとハンニバル― 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00BCY5940?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [女装男子はスカートを脱ぎたい！ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0D59QDVBR?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [たぬきときつねと里暮らし 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09833552H?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
@@ -109,7 +109,11 @@
 
 
 ### 最終更新時刻（JST）
-**2025-10-08 15:20:44 JST**
+**2025-10-08 15:41:43 JST**
 
 このページは自動生成・更新されています。  
-更新タイミング: 毎日 04:00（JST）  
+更新タイミング: 毎日 04:00（JST）
+
+※実際の金額や還元率は変動する可能性があります。購入前は必ずAmazonの商品ページで最新情報をご確認ください。  
+  当サイトは、Amazonのアフィリエイトプログラムによる商品紹介を行っています。
+  商品のお問い合わせは各公式サイトにお願いいたします。
