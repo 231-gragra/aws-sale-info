@@ -124,6 +124,7 @@
 | [呪術廻戦 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07D58KR39?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 35% (160pt) |
 | [All You Need Is Kill 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00KPS5ZFM?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 446円 | 35% (155pt) |
 | [あかね噺 18 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKR6VYD9?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
+| [サンキューピッチ 3 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBWR242?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 35% (254pt) |
 | [銀河英雄伝説 33 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FGBS2DR3?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 35% (254pt) |
 
 ## 0-9％ 還元
@@ -159,13 +160,3 @@
 ※実際の金額や還元率は変動する可能性があります。購入前は必ずAmazonの商品ページで最新情報をご確認ください。  
 当サイトは、Amazonのアフィリエイトプログラムによる商品紹介を行っています。  
 商品のお問い合わせは各公式サイトにお願いいたします。  
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K16BHGC520"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-K16BHGC520');
-</script>
