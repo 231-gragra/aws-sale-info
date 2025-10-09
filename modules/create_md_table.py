@@ -5,8 +5,6 @@ from pathlib import Path
 MD_TEMPLATE = """
 # 商品還元率一覧
 
-このページでは、還元率の高い商品をカテゴリ別に一覧表示しています。
-
 ## 目次
 {toc}
 
@@ -116,11 +114,11 @@ def main():
 
     # Markdownファイルを生成
     md_content = MD_TEMPLATE.format(toc=toc, discount_tables=discount_tables, low_price_books=low_price_table)
-    output_file = Path("templates/header.md")
+    output_file = Path("templates/content1.md")
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(md_content, encoding="utf-8")
 
-    print("templates/header.md を更新しました。")
+    print("templates/content1.md を更新しました。")
 
 # 実行
 if __name__ == "__main__":

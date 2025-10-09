@@ -1,47 +1,31 @@
-#!/usr/bin/env python3
-import os
-from pathlib import Path
 from datetime import datetime, timezone, timedelta
+from pathlib import Path
+from zoneinfo import ZoneInfo
 
-# ---- JST（Asia/Tokyo）を安全に扱う：tzdataが無い環境でも動作 ----
+# タイムゾーン設定
 try:
-    from zoneinfo import ZoneInfo  # Python 3.9+
     TZ = ZoneInfo("Asia/Tokyo")
 except Exception:
     TZ = timezone(timedelta(hours=9))  # フォールバック（JST固定）
 
+# 現在時刻
 NOW = datetime.now(TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
 
+# 出力ディレクトリ
 DOCS_DIR = Path("docs")
 DOCS_DIR.mkdir(parents=True, exist_ok=True)
 
-content = f"""### 最終更新時刻（JST）
-**{NOW}**
+# テンプレートファイルのパス
+HEADER_PATH = Path("templates/header.md")
+CONTENT1_PATH = Path("templates/content1.md")
+FOOTER_PATH = Path("templates/footer.md")
 
-このページは自動生成・更新されています。  
-更新タイミング: 毎日 04:00（JST）
+# テンプレートファイルの内容を読み込む
+header_content = HEADER_PATH.read_text(encoding="utf-8").replace("{NOW}", NOW) if HEADER_PATH.exists() else ""
+content1_content = CONTENT1_PATH.read_text(encoding="utf-8") if CONTENT1_PATH.exists() else ""
+footer_content = FOOTER_PATH.read_text(encoding="utf-8") if FOOTER_PATH.exists() else ""
 
-※実際の金額や還元率は変動する可能性があります。購入前は必ずAmazonの商品ページで最新情報をご確認ください。  
-  当サイトは、Amazonのアフィリエイトプログラムによる商品紹介を行っています。  
-  商品のお問い合わせは各公式サイトにお願いいたします。  
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K16BHGC520"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-K16BHGC520');
-</script>
-"""
-
-(DOCS_DIR / "index.md").write_text(content, encoding="utf-8")
-print("Wrote docs/index.md")
-
-# templates/header.mdを読み込んでindex.mdの最初に追加
-header_path = Path("templates/header.md")
-if header_path.exists():
-    header_content = header_path.read_text(encoding="utf-8")
-    (DOCS_DIR / "index.md").write_text(header_content + "\n\n" + content, encoding="utf-8")
-    print("header.mdの内容をindex.mdの最初に追加しました")
+# 結合して出力
+final_content = f"{header_content}\n\n{content1_content}\n\n{footer_content}"
+(DOCS_DIR / "index.md").write_text(final_content, encoding="utf-8")
+print("docs/index.md を生成しました")
