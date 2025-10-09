@@ -27,4 +27,14 @@ footer_content = FOOTER_PATH.read_text(encoding="utf-8") if FOOTER_PATH.exists()
 
 final_content = f"{header_content}\n\n{content1_content}\n\n{footer_content}"
 (DOCS_DIR / "index.md").write_text(final_content, encoding="utf-8")
+
+with open(DOCS_DIR / "index.md", "a", encoding="utf-8") as f:
+    f.write("\n<!-- Google tag (gtag.js) -->\n")
+    f.write('<script async src="https://www.googletagmanager.com/gtag/js?id=G-K16BHGC520"></script>\n')
+    f.write("<script>\n")
+    f.write("window.dataLayer = window.dataLayer || [];\n")
+    f.write("function gtag(){dataLayer.push(arguments);} \n")
+    f.write("gtag('js', new Date());\n")
+    f.write("gtag('config', 'G-K16BHGC520');\n")
+    f.write("</script>\n")
 print("docs/index.md を生成しました")
