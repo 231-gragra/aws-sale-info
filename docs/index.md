@@ -9,7 +9,6 @@
 
 ## 目次
 - [価格が100円未満の本](#価格が100円未満の本)
-- [60-69% 還元](#60-69％-還元)
 - [40-49% 還元](#40-49％-還元)
 - [30-39% 還元](#30-39％-還元)
 - [0-9% 還元](#0-9％-還元)
@@ -47,9 +46,6 @@
 |----------|------|--------|
 | [魔法少女201 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0CW1KRTLH?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 680円 | 48% (328pt) |
 | [夜嵐にわらう 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09P3L5QD6?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 627円 | 48% (302pt) |
-| [ドッグスレッド 6 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FGBHK3S2?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 48% (353pt) |
-| [幽★遊★白書 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00KCC0YKC?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 48% (222pt) |
-| [ベイク・ベイク・ベイク 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DJB6SQZ8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 48% (362pt) |
 
 ## 30-39％ 還元
 
