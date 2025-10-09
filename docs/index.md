@@ -1,8 +1,6 @@
---- 
-layout: default 
----
+--- layout: default ---
 
-### 最終更新時刻 **2025-10-10 05:46:19 JST**
+### 最終更新時刻 **2025-10-10 07:06:55 JST**
 
 このページはKindle本のセール情報をまとめています。  
 毎日朝4時に自動生成・更新されていますので、ブックマークに保存をオススメします。
@@ -43,6 +41,8 @@ layout: default
 |----------|------|--------|
 | [HUNTER×HUNTER クラピカ追憶編 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0C8MJH6G9?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 220円 | 35% (76pt) |
 | [ダンダダン 21 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBXCB9K?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 585円 | 35% (202pt) |
+| [いとこのお姉ちゃんに甘えちゃう？ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DJB5M9HW?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
+| [いとこのお姉ちゃんに甘えちゃう？ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DJB5M9HW?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
 | [チェンソーマン 22 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRMCG31?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [魔王様ちょっとそれとって!! 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00S63GFFM?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 537円 | 35% (186pt) |
 | [逃げ上手の若君 22 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBW5MPV?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
@@ -118,31 +118,8 @@ layout: default
 | タイトル | 価格 | 還元率 |
 |----------|------|--------|
 | [SPY×FAMILY 16 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBXMQBH?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 585円 | 1% (6pt) |
-| [いとこのお姉ちゃんに甘えちゃう？ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DJB5M9HW?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 1% (8pt) |
-| [オオカミライズ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07PYRY6NT?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 627円 | 1% (6pt) |
-| [げにかすり 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRKWXLL?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 1% (7pt) |
-| [バツハレ 10 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRNDZW4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 1% (8pt) |
-| [R.O.D 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07D3RR3T1?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
-| [瞬きより迅く!! 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B095YDXQJ8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
-| [クソ女に幸あれ 8 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBYNVCQ?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 1% (8pt) |
-| [天獄 ― HEAVEN'S PRISON ― 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00GBME35Y?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
 
-
-### 最終更新時刻（JST）
-**2025-10-10 04:19:46 JST**
-
-このページは自動生成・更新されています。  
-更新タイミング: 毎日 04:00（JST）
 
 ※実際の金額や還元率は変動する可能性があります。購入前は必ずAmazonの商品ページで最新情報をご確認ください。  
 当サイトは、Amazonのアフィリエイトプログラムによる商品紹介を行っています。  
 商品のお問い合わせは各公式サイトにお願いいたします。  
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K16BHGC520"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);} 
-gtag('js', new Date());
-gtag('config', 'G-K16BHGC520');
-</script>
