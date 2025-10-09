@@ -1,0 +1,9 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter_opts:
+    block:
+      disable: true
+  parse_block_html: true
+  parse_span_html: true
