@@ -1,5 +1,9 @@
 --- layout: default ---
 
+---
+layout: default
+---
+
 ### 最終更新時刻 **{NOW}**
 
 このページはKindle本のセール情報をまとめています。  
