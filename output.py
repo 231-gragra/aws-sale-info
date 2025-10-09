@@ -25,7 +25,7 @@ header_content = HEADER_PATH.read_text(encoding="utf-8").replace("{NOW}", NOW) i
 content1_content = CONTENT1_PATH.read_text(encoding="utf-8") if CONTENT1_PATH.exists() else ""
 footer_content = FOOTER_PATH.read_text(encoding="utf-8") if FOOTER_PATH.exists() else ""
 
+# 結合して出力
 final_content = f"{header_content}\n\n{content1_content}\n\n{footer_content}"
 (DOCS_DIR / "index.md").write_text(final_content, encoding="utf-8")
-
 print("docs/index.md を生成しました")
