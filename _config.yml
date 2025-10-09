@@ -7,7 +7,5 @@ kramdown:
       disable: true
   parse_block_html: true
   parse_span_html: true
-title: comi-toku-info
 description: Kindle本のセール・高還元情報まとめ
-theme: minima
 timezone: Asia/Tokyo
