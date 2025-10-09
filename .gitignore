@@ -4,3 +4,6 @@ templates/header.md
 venv
 __pycache__/
 *.pyc
+Gemfile
+Gemfile.lock
+_site/

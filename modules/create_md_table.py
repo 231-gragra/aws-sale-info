@@ -5,8 +5,6 @@ from pathlib import Path
 MD_TEMPLATE = """
 # 商品還元率一覧
 
-このページでは、還元率の高い商品をカテゴリ別に一覧表示しています。
-
 ## 目次
 {toc}
 
@@ -18,8 +16,8 @@ MD_TEMPLATE = """
 # JSONデータをMarkdownのテーブル形式に変換する関数
 def json_to_md_tables(json_data):
     # 割引率ごとに分類する辞書
-    discount_categories = {f"{i*10}-{(i+1)*10-1}%": [] for i in range(10)}
-    discount_categories["100%"] = []  # 100%還元用
+    discount_categories = {f"{i*10}-{(i+1)*10-1}": [] for i in range(10)}
+    discount_categories["100"] = []  # 100%還元用
     low_price_books = []  # 価格が100円未満の本を保存するリスト
 
     for item in json_data:
@@ -46,9 +44,9 @@ def json_to_md_tables(json_data):
         
         # 割引率に応じて適切なカテゴリーに追加
         if discount_rate == 100:
-            discount_categories["100%"].append(row)
+            discount_categories["100"].append(row)
         else:
-            category_key = f"{(discount_rate // 10) * 10}-{((discount_rate // 10) + 1) * 10 - 1}%"
+            category_key = f"{(discount_rate // 10) * 10}-{((discount_rate // 10) + 1) * 10 - 1}"
             discount_categories[category_key].append(row)
 
         # 価格が100円未満の本をテーブル用に保存
@@ -68,7 +66,7 @@ def generate_md_tables(discount_categories):
                 # 還元率でソート（降順）
                 sorted_rows = sorted(rows, key=lambda row: int(row.split("|")[3].split("%")[0].strip()), reverse=True)
                 # カテゴリごとのタイトルを追加
-                table = f"## {category} 還元\n\n| タイトル | 価格 | 還元率 |\n|----------|------|--------|\n" + "\n".join(rows)
+                table = f"## {category}％ 還元\n\n| タイトル | 価格 | 還元率 |\n|----------|------|--------|\n" + "\n".join(rows)
                 tables.append(table)
     return "\n\n".join(tables)
 
@@ -76,11 +74,21 @@ def generate_md_tables(discount_categories):
 def generate_toc(discount_categories):
     toc = []
     toc.append("- [価格が100円未満の本](#価格が100円未満の本)")
-    for category in sorted(discount_categories.keys(), reverse=True):
-        if discount_categories[category]:  # データがある場合のみ目次に追加
-            anchor = category.replace("%", "").replace("-", "").lower()
-            toc.append(f"- [{category} 還元](#{anchor}-還元)")
-    return "\n".join(toc)
+    # カテゴリを降順にソート
+    sorted_categories = sorted(discount_categories.keys(), key=lambda x: int(x.split("-")[0].replace("%", "")) if "-" in x else 100, reverse=True)
+    for category in sorted_categories:
+        rows = discount_categories[category]
+        if rows:  # データがある場合のみテーブルを生成
+            # アンカーリンク用のカテゴリ名を加工
+            anchor_link = f"- [{category}% 還元](#{category}％-還元)"
+            toc.append(anchor_link)
+
+    # 目次を生成
+    toc_content = "\n".join(toc)
+    toc_section = f"{toc_content}\n"
+
+    # 目次を返す
+    return toc_section
 
 # 価格が100円未満の本のテーブルを生成する関数
 def generate_low_price_table(low_price_books):
@@ -116,11 +124,11 @@ def main():
 
     # Markdownファイルを生成
     md_content = MD_TEMPLATE.format(toc=toc, discount_tables=discount_tables, low_price_books=low_price_table)
-    output_file = Path("templates/header.md")
+    output_file = Path("templates/content1.md")
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(md_content, encoding="utf-8")
 
-    print("templates/header.md を更新しました。")
+    print("templates/content1.md を更新しました。")
 
 # 実行
 if __name__ == "__main__":
