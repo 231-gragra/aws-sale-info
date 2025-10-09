@@ -1,0 +1,43 @@
+/* Markdown表の基本体裁 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 1rem 0 2rem;
+  font-size: 0.95rem;
+}
+
+th, td {
+  padding: 10px 12px;
+  border: 1px solid #e5e7eb; /* 明るいグレー */
+  vertical-align: middle;
+  line-height: 1.5;
+}
+
+th {
+  background: #f8fafc;       /* 見出し薄グレー */
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+tbody tr:nth-child(odd) {
+  background: #fcfdff;       /* うっすら縞 */
+}
+
+tbody tr:hover {
+  background: #f1f5f9;       /* ホバー強調 */
+}
+
+/* 価格・還元率の数字を右寄せにしたい場合（列名に合わせて自動適用） */
+th:nth-child(2), td:nth-child(2),
+th:nth-child(3), td:nth-child(3) {
+  text-align: right;
+}
+
+/* スマホで横スクロール可能に */
+.table-wrapper {
+  overflow-x: auto;
+}
+
+/* 目次やセクション間の余白を少し広げる */
+h2, h3 { margin-top: 2.0rem; }
