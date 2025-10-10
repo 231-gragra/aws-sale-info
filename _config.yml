@@ -1,11 +1,8 @@
 markdown: kramdown
+theme: minima
+plugins: []
 kramdown:
   input: GFM
   hard_wrap: false
-  syntax_highlighter_opts:
-    block:
-      disable: true
-  parse_block_html: true
-  parse_span_html: true
 description: Kindle本のセール・高還元情報まとめ
 timezone: Asia/Tokyo

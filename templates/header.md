@@ -1,5 +1,6 @@
 ---
 layout: default
+title:　コミトク：Kindle本のセール・高還元情報まとめサイト
 ---
 
 ### 最終更新時刻 **{NOW}**
