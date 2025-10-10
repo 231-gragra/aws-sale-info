@@ -80,7 +80,7 @@ def generate_toc(discount_categories):
         rows = discount_categories[category]
         if rows:  # データがある場合のみテーブルを生成
             # アンカーリンク用のカテゴリ名を加工
-            anchor_link = f"- [{category}% 還元](#{category}％-還元)"
+            anchor_link = f"- [{category}% 還元](#{category}-還元)"
             toc.append(anchor_link)
 
     # 目次を生成
