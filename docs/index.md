@@ -3,7 +3,7 @@ layout: default
 title: コミトク：Kindle本のセール・高還元情報まとめサイト
 ---
 
-### 最終更新時刻 **2025-10-10 12:25:58 JST**
+### 最終更新時刻 **2025-10-10 12:35:28 JST**
 
 このページはKindle本のセール情報をまとめています。  
 毎日朝4時に自動生成・更新されていますので、ブックマークに保存をオススメします。
@@ -27,9 +27,10 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
 | [レディ＆オールドマン 7 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07QNZZSBL?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 77円 | 1% (1pt) |
 | [みーちゃんは飼われたい 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0CCXKGH3V?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [終末のハーレム ファンタジア セミカラー版 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07HQM37R4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
-| [R.O.D 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07D3RR3T1?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
 | [竜と勇者と配達人 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B01N7JS627?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
+| [R.O.D 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07D3RR3T1?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
 | [瞬きより迅く!! 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B095YDXQJ8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
+| [天獄 ― HEAVEN'S PRISON ― 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00GBME35Y?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
 | [もののがたり 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00VJWEB8U?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [恋は忍耐 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0CTHQ5YTY?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [瞬きより迅く!! 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B08PBFMRGT?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
@@ -56,7 +57,6 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
 | [夜嵐にわらう 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09P3L5QD6?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 627円 | 48% (302pt) |
 | [ドッグスレッド 6 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FGBHK3S2?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 48% (353pt) |
 | [幽★遊★白書 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00KCC0YKC?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 48% (222pt) |
-| [ベイク・ベイク・ベイク 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DJB6SQZ8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 48% (362pt) |
 
 ## 30-39％ 還元
 
@@ -68,8 +68,8 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
 | [いとこのお姉ちゃんに甘えちゃう？ 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DJB5M9HW?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
 | [チェンソーマン 22 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRMCG31?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [魔王様ちょっとそれとって!! 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00S63GFFM?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 537円 | 35% (186pt) |
-| [ウィッチウォッチ 22 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLQF6QT?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [逃げ上手の若君 22 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBW5MPV?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
+| [ウィッチウォッチ 22 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLQF6QT?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [ウィッチウォッチ 23 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRVFLVW?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [ROBOTICS;NOTES REVIVAL LEGACY 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00CLO6QGK?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 587円 | 35% (203pt) |
 | [銀河英雄伝説 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B01AT6UKK4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 537円 | 35% (186pt) |
@@ -77,16 +77,16 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
 | [みーちゃんは飼われたい 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0CCXKGH3V?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [キングダム 76 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLR4V9K?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 35% (254pt) |
 | [BORUTO-ボルト-　-TWO BLUE VORTEX- 6 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBX2M8B?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
-| [都市伝説解体センター Parallel File 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRYLNG2?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
 | [DEATH NOTE短編集 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B08R6T21RF?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 564円 | 35% (195pt) |
+| [都市伝説解体センター Parallel File 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRYLNG2?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
 | [彼方のアストラ 全巻合本版 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07L4MWMZY?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 2547円 | 35% (881pt) |
 | [終末のハーレム ファンタジア セミカラー版 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07HQM37R4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [竜と勇者と配達人 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B01N7JS627?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
 | [君のことが大大大大大好きな100人の彼女 23 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRDSYP9?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 773円 | 35% (267pt) |
+| [岩元先輩ノ推薦 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09834RB52?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 659円 | 35% (228pt) |
 | [いとこのお姉ちゃんに甘えちゃう？ 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRGQ88B?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 35% (260pt) |
-| [君のことが大大大大大好きな100人の彼女 23 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRDSYP9?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 773円 | 35% (267pt) |
-| [ONE PIECE モノクロ版 112 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLR84Q1?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [魔都精兵のスレイブ 19 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRCJTKX?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
+| [ONE PIECE モノクロ版 112 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FBLR84Q1?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [レベルE 上 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00KYMOCAS?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 690円 | 35% (239pt) |
 | [タコピーの原罪 上 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09R9YL6Q8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 659円 | 35% (228pt) |
 | [もののがたり 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00VJWEB8U?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 33% (11pt) |
@@ -121,12 +121,12 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
 | [ヒカルの碁 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00AA6MPWU?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 35% (160pt) |
 | [DRAGON BALL モノクロ版 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00A47VS5A?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 35% (160pt) |
 | [鵺の陰陽師 11 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRKZM4N?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
+| [地獄先生ぬ～べ～NEO 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00O8CE0EI?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 418円 | 34% (144pt) |
 | [魔男のイチ 4 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FGBR91JC?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 35% (188pt) |
 | [ブラッククローバー 37 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKR67ZJH?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 564円 | 35% (195pt) |
-| [地獄先生ぬ～べ～NEO 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00O8CE0EI?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 418円 | 34% (144pt) |
 | [たぬきときつねと里暮らし 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09833552H?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 627円 | 35% (217pt) |
-| [呪術廻戦 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07D58KR39?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 35% (160pt) |
 | [サンキューピッチ 3 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBWR242?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 35% (254pt) |
+| [呪術廻戦 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07D58KR39?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 35% (160pt) |
 | [元勇者は静かに暮らしたい 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0B55WF9X6?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 659円 | 35% (228pt) |
 | [ルックバック (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B09BDZ5RSJ?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 35% (160pt) |
 
