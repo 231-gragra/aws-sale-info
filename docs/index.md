@@ -1,4 +1,7 @@
---- layout: default ---
+---
+layout: default
+title:　コミトク：Kindle本のセール・高還元情報まとめサイト
+---
 
 ### 最終更新時刻 **2025-10-10 07:06:55 JST**
 
