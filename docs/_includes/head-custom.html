@@ -1,3 +1,7 @@
+<title>コミトク｜Kindle本のセール・高還元情報まとめサイト</title>
+<meta name="description" content="Kindle本・漫画の最新セール情報を毎日自動更新中。還元率や割引率でお得な作品をまとめています。">
+<meta name="keywords" content="Kindle, セール, 漫画, 割引, Amazon, アフィリエイト">
+<link rel="canonical" href="https://231-gragra.github.io/comi-toku-info/">
 {% if jekyll.environment == "production" %}
   <!-- GA4 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-K16BHGC520"></script>
@@ -6,5 +10,20 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-K16BHGC520');
+  </script>
+
+  <!-- Amazonリンククリックのカスタムイベント -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('a[href*="amazon.co.jp"]').forEach(function(link) {
+        link.addEventListener('click', function() {
+          gtag('event', 'affiliate_click', {
+            event_category: 'AmazonLink',
+            event_label: link.href,
+            value: 1
+          });
+        });
+      });
+    });
   </script>
 {% endif %}
