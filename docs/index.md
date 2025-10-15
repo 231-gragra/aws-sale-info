@@ -3,7 +3,7 @@ layout: default
 title: コミトク：Kindle本のセール・高還元情報まとめサイト
 ---
 
-### 最終更新時刻 **2025-10-15 12:28:08 JST**
+### 最終更新時刻 **2025-10-15 12:33:31 JST**
 
 このページはKindle本のセール情報をまとめています。  
 毎日朝4時に自動生成・更新されていますので、ブックマークに保存をオススメします。
@@ -123,12 +123,12 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
 | [僕のヒーローアカデミア 42 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DLDXNGMC?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 1% (5pt) |
 | [ジョジョの奇妙な冒険 第9部 ザ・ジョジョランズ 5 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DLF2F4Q4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 1% (5pt) |
 | [幽★遊★白書 1 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00KCC0YKC?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 460円 | 1% (5pt) |
-| [ラジエーションハウス 19 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DB29ZLP4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 1% (7pt) |
 | [終末のハーレム ファンタジア学園 1 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B08PBFNX45?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
+| [ラジエーションハウス 19 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0DB29ZLP4?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 1% (7pt) |
 | [いとこのお姉ちゃんに甘えちゃう？ 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRGQ88B?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 1% (8pt) |
 | [げにかすり 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FKRKWXLL?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 732円 | 1% (7pt) |
-| [℃りけい。 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00AU29GM6?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 537円 | 1% (5pt) |
 | [竜と勇者と配達人 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B075SWK4P8?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 33円 | 0% (0pt) |
+| [℃りけい。 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B00AU29GM6?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 537円 | 1% (5pt) |
 | [ワンパンマン 35 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FPBXNKGW?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 543円 | 1% (5pt) |
 | [破壊魔定光 3 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B07DNYH2LT?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 678円 | 1% (7pt) |
 | [これってハラスメントですか？ 2 (ヤングジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0FTQLG9KM?tag=ap231ex-22&linkCode=osi&th=1&psc=1) | 752円 | 1% (8pt) |
