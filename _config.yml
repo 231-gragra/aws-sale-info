@@ -1,8 +1,11 @@
 markdown: kramdown
 theme: minima
-plugins: []
+plugins: 
+  - jekyll-sitemap
 kramdown:
   input: GFM
   hard_wrap: false
 description: Kindle本のセール・高還元情報まとめ
 timezone: Asia/Tokyo
+github:
+  is_project_page: true

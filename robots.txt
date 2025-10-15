@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://231-gragra.github.io/comi-toku-info/sitemap.xml
