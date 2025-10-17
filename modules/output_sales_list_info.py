@@ -20,7 +20,7 @@ load_dotenv()
 # ===== 認証情報を設定してください =====
 ACCESS_KEY = os.getenv("PAAPI_ACCESS_KEY")
 SECRET_KEY = os.getenv("PAAPI_SECRET_KEY")
-PARTNER_TAG = os.getenv("PAAPI_ASSOCIATE_TAG")
+PARTNER_TAG = os.getenv("PAAPI_ASSOCIATE_TAG2")
 SEARCH_KINDLE_EVENT_ID = os.getenv("PAAPI_KINDLE_EVENT_ID")
 
 def get_browse_nodes():
@@ -111,5 +111,5 @@ def main():
 
 
 if __name__ == "__main__":
-    time.sleep(5)
     main()
+    time.sleep(5)

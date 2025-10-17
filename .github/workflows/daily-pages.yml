@@ -32,10 +32,10 @@ jobs:
           PAAPI_ASSOCIATE_TAG2: ${{ secrets.PAAPI_ASSOCIATE_TAG2 }}
           SEARCH_KINDLE_EVENT_ID: ${{ secrets.SEARCH_KINDLE_EVENT_ID }}
         run: |
-          python modules/output_api_search_keyword.py
-          python modules/create_md_table.py
           python modules/output_sales_list_info.py
           python modules/create_sales_list.py
+          python modules/output_api_search_keyword.py
+          python modules/create_md_table.py
           python output.py
 
       - name: Commit & Push
