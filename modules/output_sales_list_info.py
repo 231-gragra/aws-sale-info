@@ -21,7 +21,7 @@ load_dotenv()
 ACCESS_KEY = os.getenv("PAAPI_ACCESS_KEY")
 SECRET_KEY = os.getenv("PAAPI_SECRET_KEY")
 PARTNER_TAG = os.getenv("PAAPI_ASSOCIATE_TAG2")
-SEARCH_KINDLE_EVENT_ID = os.getenv("PAAPI_KINDLE_EVENT_ID")
+SEARCH_KINDLE_EVENT_ID = os.getenv("SEARCH_KINDLE_EVENT_ID")
 
 def get_browse_nodes():
     host = "webservices.amazon.co.jp"
