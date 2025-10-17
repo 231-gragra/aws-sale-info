@@ -25,6 +25,19 @@ POINT_FILTERS = {
 
 ASCII_ONLY = re.compile(r"^[ -~]+$")  # 半角ASCIIのみ
 
+def md_escape(s: str) -> str:
+    """
+    Markdownのリンクテキスト内で表記崩れを起こしやすい記号をエスケープ。
+    特に '|' はテーブル判定を誘発するため必ず '\\|' にします。
+    """
+    # 先にバックスラッシュ自体をエスケープ
+    s = s.replace("\\", "\\\\")
+    # 一般的に崩れやすい記号をエスケープ
+    for ch in ["|", "[", "]", "(", ")", "*", "_", "`", "{", "}", "#", "+", "!", ">"]:
+        s = s.replace(ch, "\\" + ch)
+    # 連続スペースや末尾スペースは意図せず改行扱いになることがあるので整形（任意）
+    return s.strip()
+
 def is_ascii_only(text: str) -> bool:
     return bool(ASCII_ONLY.fullmatch(text))
 
@@ -80,8 +93,9 @@ def main():
 
     lines = ["## セールイベント一覧（Kindleストアリンク付き）", f"### 現在**{len(items)}件**のセールが開催されています  ","※セールによってはXX%以上の還元作品がなく検索エラーになる可能性があります。  "," その時は一番上のセールリンクから飛んでください。"]
     for node_id, name in items:
+        safe_name = md_escape(name)
         base_url = build_base_url(node_id)
-        parts = [f"- **[{name}]({base_url})**"]
+        parts = [f"- **[{safe_name}]({base_url})**"]
         lines.append(" ".join(parts))
         for label, code in POINT_FILTERS.items():
             lines.append(f"  - [{label}]({build_points_url(node_id, code)})")
