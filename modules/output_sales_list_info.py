@@ -42,7 +42,6 @@ def get_browse_nodes():
             languages_of_preference=languages_of_preference,
             browse_node_ids=browse_node_ids,
             resources=get_browse_node_resources,
-            sort_by
         )
     except ValueError as exception:
         print("Error in forming GetBrowseNodesRequest: ", exception)
