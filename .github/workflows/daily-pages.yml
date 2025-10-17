@@ -29,9 +29,13 @@ jobs:
           PAAPI_ACCESS_KEY: ${{ secrets.PAAPI_ACCESS_KEY }}
           PAAPI_SECRET_KEY: ${{ secrets.PAAPI_SECRET_KEY }}
           PAAPI_ASSOCIATE_TAG: ${{ secrets.PAAPI_ASSOCIATE_TAG }}
+          PAAPI_ASSOCIATE_TAG2: ${{ secrets.PAAPI_ASSOCIATE_TAG2 }}
+          SEARCH_KINDLE_EVENT_ID: ${{ secrets.SEARCH_KINDLE_EVENT_ID }}
         run: |
           python modules/output_api_search_keyword.py
           python modules/create_md_table.py
+          python modules/output_sales_list_info.py
+          python modules/create_sales_list.py
           python output.py
 
       - name: Commit & Push
@@ -41,7 +45,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/index.md
+            git add docs/index.md docs/sales_list.md
             MSG_NOW=$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S %Z')
             git commit -m "chore: update time (${MSG_NOW}) [skip ci]"
             git push
