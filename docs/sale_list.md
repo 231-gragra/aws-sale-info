@@ -3,7 +3,7 @@ layout: default
 title: コミトク：Kindle本のセール・高還元情報まとめサイト
 ---
 
-### 最終更新時刻 **2025-10-23 04:18:47 JST**
+### 最終更新時刻 **2025-10-24 04:20:14 JST**
 
 このページはKindle本のセール情報をまとめています。  
 毎日朝4時に自動生成・更新されていますので、ブックマークに保存をオススメします。
@@ -227,13 +227,6 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903359051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903359051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[ニコニコカドカワ祭2025第2弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903358051&tag=ap231ex-2-22&s=salesrank)**
-  - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903358051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
-  - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903358051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
-  - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903358051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
-  - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903358051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
-  - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903358051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
-
 - **[【最大50%還元】Kindle本 秋の特別ポイントキャンペーン](https://www.amazon.co.jp/s?i=digital-text&rh=n:211884007051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211884007051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211884007051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
@@ -303,6 +296,13 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649568051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649568051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649568051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
+
+- **[漫祭2025 第8弾 イッキ読み必至！読み始めたら止まらない完結済み少女・女性漫画セレクション！](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649567051&tag=ap231ex-2-22&s=salesrank)**
+  - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649567051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
+  - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649567051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
+  - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649567051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
+  - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649567051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
+  - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649567051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
 - **[漫祭2025 第4弾 男女共通！次世代の名作が勢揃い ネクストブレイク作品フェア！！](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649563051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649563051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
