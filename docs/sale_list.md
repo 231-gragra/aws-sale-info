@@ -3,7 +3,7 @@ layout: default
 title: コミトク：Kindle本のセール・高還元情報まとめサイト
 ---
 
-### 最終更新時刻 **2025-11-03 04:17:28 JST**
+### 最終更新時刻 **2025-11-04 04:19:59 JST**
 
 このページはKindle本のセール情報をまとめています。  
 毎日朝4時に自動生成・更新されていますので、ブックマークに保存をオススメします。
@@ -14,16 +14,9 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
 
 
 ## セールイベント一覧（Kindleストアリンク付き）
-### 現在**88件**のセールが開催されています  
+### 現在**87件**のセールが開催されています  
 ※セールによってはXX%以上の還元作品がなく検索エラーになる可能性があります。  
  その時は一番上のセールリンクから飛んでください。
-- **[学研まんが 人物日本史特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:213469063051&tag=ap231ex-2-22&s=salesrank)**
-  - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213469063051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
-  - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213469063051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
-  - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213469063051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
-  - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213469063051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
-  - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213469063051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
-
 - **[技術書博出店記念セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:213348839051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213348839051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213348839051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
