@@ -55,6 +55,13 @@ def json_to_md_tables(json_data):
         if amount != "N/A" and amount < 100:
             low_price_books.append(row)
 
+    # 各カテゴリー内でタイトル順にソート
+    for i in range(10):
+        key = f"{i*10}-{(i+1)*10-1}"
+        discount_categories[key].sort()
+    discount_categories["100"].sort()
+    low_price_books.sort()
+
     return discount_categories, low_price_books
 
 # 割引率ごとのテーブルを生成する関数
