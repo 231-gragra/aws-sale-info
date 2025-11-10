@@ -25,9 +25,11 @@ def json_to_md_tables(json_data):
         detail_page_url = item.get("detail_page_url", "#")
         
         # 価格と割引率を取得
-        price_info = item.get("offers", {}).get("listings", [{}])[0]
-        amount = price_info.get("price", {}).get("amount", "N/A")
-        loyalty_points = price_info.get("loyalty_points", {}).get("points", 0)
+        offers = item.get("offers") or {}
+        listings = offers.get("listings") or [{}]
+        price_info = listings[0] if listings else {}
+        amount = (price_info.get("price") or {}).get("amount", "N/A")
+        loyalty_points = (price_info.get("loyalty_points") or {} ).get("points", 0)
         
         if amount != "N/A" and loyalty_points > 0:
             discount_rate = int(round((loyalty_points / (amount)) * 100, 0))
